@@ -1,2 +1,4 @@
 # Export-Import-and-Trade-Balance-of-Brazil
-Dashboard Export, Import and Trade Balance of Brazil in Power BI
+Export, Import and Trade Balance Dashboard in Brazil in Power BI
+
+Project 1 of the DataB Power BI course
